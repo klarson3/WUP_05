@@ -35,7 +35,7 @@ barchartGC(~infected + treatment,data=mydataF)
 barchartGC(~infected + treatment,data=mydataF, type="percent")
 ```
 
-
+According to this chart, we can see that so far this drug is not effective to prevent aids in women. Instead of preventing aids in women, it makes women contract aids more versus women who are only taking the placebo. 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
 ### Numerical Descriptive Results
