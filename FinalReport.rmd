@@ -51,6 +51,12 @@ Women who have taken the treatment and have been infected with aids is nearly 60
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+The null hypothesis is false because there is clearly a side effect of some sort that causes the women being treated with the drug to get infected versus women who only took placebo. The first inferrentia test gives us a p value of 0.00007686 and the final inferrential test gives us a p value of 0.00006596. Both p values shows that the chances of receiving this exact results is unlikely. The confidence interval shows that overall, the chances of women getting aids when taking the drug is 1 1/2 times mre likely than women who have not. 
 
 
 # Discussion and Conclusion
