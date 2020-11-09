@@ -62,3 +62,6 @@ The null hypothesis is false because there is clearly a side effect of some sort
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+The null hypothesis is no difference between taking the drugs or taking the placebo. The relationship between taking the drugs and getting aids is that taking the drugs seems to give you aids. So we reject the null hypothesis that there is no relationship and conclude that the relationship is negative.There is a relationship and it is backwards to what you want. This also states that this drug would fail clinical trial and is working the wrong direction.  
